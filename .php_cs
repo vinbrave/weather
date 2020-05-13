@@ -1,6 +1,6 @@
 <?php
 $header = <<<EOF
-This file is part of the vinbrave/weacher.
+This file is part of the vinbrave/weather.
 
 (c) yangy <aidreams@sina.com>
 
